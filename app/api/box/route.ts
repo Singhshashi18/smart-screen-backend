@@ -1,4 +1,4 @@
-   import { verifyClerkJWT } from "@/lib/auth";
+    import { verifyClerkJWT } from "@/lib/auth";
 import { connectDB } from "@/lib/db";
 import { Box } from "@/models/Box";
 import { NextRequest, NextResponse } from "next/server";
