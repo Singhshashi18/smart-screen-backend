@@ -1,5 +1,5 @@
  // import { connectDB } from "@/lib/db";
-// import User from "@/models/User";
+// import User from "@/models/User"; 
 // import { NextRequest, NextResponse } from "next/server";
 // import { verifyClerkJWT } from "@/lib/auth";
 
